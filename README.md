@@ -23,3 +23,8 @@ Este repositorio reúne las actividades realizadas durante el curso de Estadíst
 ## Evidencias de actividad
 
 Se incorporará una captura de la gráfica de actividad del repositorio desde Insights → Contributors.
+## Gráfica de actividad del repositorio
+
+La siguiente imagen muestra las contribuciones registradas durante el desarrollo del PIA.
+
+<img width="1872" height="950" alt="Contributors" src="https://github.com/user-attachments/assets/c906bc4b-85ed-4a5b-a981-82788e373012" />
